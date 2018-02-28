@@ -1,0 +1,36 @@
+{
+	"bread" : [
+		"Whole Wheat",
+		"Italian Herb",
+		"Jalapeno Parmesan"
+	],
+	"sauce" : [
+		"Mayo",
+		"Mustard",
+		"Honey Mustard",
+		"Spicy Mayo"
+	],
+	"sandwichType" : [
+		"Turkey Bacon Club",
+		"Oven Roasted Turkey",
+		"Savory Ham",
+		"Italian (Salami, Ham & Pepperoni)"
+	],
+	"cheese" : [
+		"American",
+		"Swiss",
+		"Pepperjack"
+	],
+	"veggies" : [
+		"Cucumber",
+		"Lettuce",
+		"Pepper's Banana",
+		"Pepper's Jalapeno",
+		"Pepper's Green and Red",
+		"Pickles",
+		"Spinach",
+		"Tomato",
+		"Olives",
+		"Onions"
+	]
+}
