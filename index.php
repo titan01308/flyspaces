@@ -47,7 +47,7 @@
 							echo '<td>'.$val->name.'</td>';
 							echo '<td>'.$val->email.'</td>';
 							echo '<td>
-								<a href="/flyspaces/api/view.php/?id='.$val->id.'">View</a>
+								<a href="/flyspaces/view.php/?id='.$val->id.'">View</a>
 								<a href="/flyspaces/edit.php/?id='.$val->id.'">Edit</a>
 								<a href="/flyspaces/api/delete.php/?id='.$val->id.'">Delete</a>
 							</td>';
